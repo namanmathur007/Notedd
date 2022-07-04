@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notedd/static/css/main.69c31b72.css",
+    "main.js": "/Notedd/static/js/main.77e4bf97.js",
+    "static/js/787.bd8e8194.chunk.js": "/Notedd/static/js/787.bd8e8194.chunk.js",
+    "index.html": "/Notedd/index.html",
+    "main.69c31b72.css.map": "/Notedd/static/css/main.69c31b72.css.map",
+    "main.77e4bf97.js.map": "/Notedd/static/js/main.77e4bf97.js.map",
+    "787.bd8e8194.chunk.js.map": "/Notedd/static/js/787.bd8e8194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c31b72.css",
+    "static/js/main.77e4bf97.js"
+  ]
+}
